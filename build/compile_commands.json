@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/build",
+  "command": "/usr/bin/clang++ -DDATA_DIR=\\\"/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/data/\\\" -I/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/Homework3_Carlo.dir/src/MonteCarlo.cpp.o -c /Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src/MonteCarlo.cpp",
+  "file": "/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src/MonteCarlo.cpp",
+  "output": "CMakeFiles/Homework3_Carlo.dir/src/MonteCarlo.cpp.o"
+},
+{
+  "directory": "/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/build",
+  "command": "/usr/bin/clang++ -DDATA_DIR=\\\"/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/data/\\\" -I/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/Homework3_Carlo.dir/src/carlotools.cpp.o -c /Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src/carlotools.cpp",
+  "file": "/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src/carlotools.cpp",
+  "output": "CMakeFiles/Homework3_Carlo.dir/src/carlotools.cpp.o"
+},
+{
+  "directory": "/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/build",
+  "command": "/usr/bin/clang++ -DDATA_DIR=\\\"/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/data/\\\" -I/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/Homework3_Salesman.dir/src/TravelingSalesman.cpp.o -c /Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src/TravelingSalesman.cpp",
+  "file": "/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src/TravelingSalesman.cpp",
+  "output": "CMakeFiles/Homework3_Salesman.dir/src/TravelingSalesman.cpp.o"
+},
+{
+  "directory": "/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/build",
+  "command": "/usr/bin/clang++ -DDATA_DIR=\\\"/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/data/\\\" -I/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/Homework3_Salesman.dir/src/salesmantools.cpp.o -c /Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src/salesmantools.cpp",
+  "file": "/Users/sergeyscoville/Documents/ComputationalMethodsFall2024/Homework3/src/salesmantools.cpp",
+  "output": "CMakeFiles/Homework3_Salesman.dir/src/salesmantools.cpp.o"
+}
+]
