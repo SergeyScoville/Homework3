@@ -7,6 +7,7 @@
 #include <numeric>
 #include <iostream>
 #include <fstream>
+#include <random>
 
 
 class Vector2D {
@@ -26,7 +27,7 @@ double totalDistance(const std::vector<int> &path, const std::vector<Vector2D> &
 
 std::vector<int> generateNewPath(const std::vector<int> &currentPath);
 
-double simulatedAnnealing(const std::vector<Vector2D> &cities, double Ti, double Tf, double r);
+std::pair<double, std::vector<int>> simulatedAnnealing(const std::vector<Vector2D>& cities, double Ti, double Tf, double r);
 
 std::vector<Vector2D> readCitiesFromFile(const std::string& fileName);
 

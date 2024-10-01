@@ -1,5 +1,6 @@
 #include "carlotools.h"
 
+// This is a function to calculate the volume based on points placed
 double monteCarloVolume(int N, double radius) {
     std::random_device random;
     std::mt19937 gen(random());
@@ -7,7 +8,8 @@ double monteCarloVolume(int N, double radius) {
 
     int number_inside_sphere = 0;
 
-    // Generate N random points and check to see if they are inside the sphere, increment if they are
+    // Generate N random points and check to see if they are inside the sphere, 
+    // increment if they are
     for (int point = 0; point < N; point++) {
         double x = dis(gen);
         double y = dis(gen);
